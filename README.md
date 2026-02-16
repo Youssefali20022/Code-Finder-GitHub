@@ -16,7 +16,7 @@ A modern, responsive web application to find and explore GitHub repositories wit
 
 ## 🚀 Live Demo
 
-**🌐 Check out the live application:** [https://youssefali20022.github.io/Code-Repo-Search/](https://youssefali20022.github.io/Code-Repo-Search/)
+**🌐 Check out the live application:** [https://youssefali20022.github.io/Code-Finder-GitHub/](https://youssefali20022.github.io/Code-Finder-GitHub/)
 
 Search for any GitHub username (e.g., `facebook`, `microsoft`, `google`) to explore their repositories.
 
